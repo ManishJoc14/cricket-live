@@ -11,7 +11,8 @@ export default function Home() {
     <div className="flex flex-col gap-4 min-h-screen container mx-auto">
       {/* Video Player */}
       <iframe
-        src="//stream.crichd.sc/update/star1hi.php"
+        // src="//stream.crichd.sc/update/star1hi.php"
+        src="https://soplay.pro/embed2.php?id=starsp3"
         className="h-screen"
         allowFullScreen
         allow="encrypted-media"
