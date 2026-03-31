@@ -22,7 +22,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-t-gray-200 container text-center py-2">
         <p className="text-sm text-gray-600">
-          Made with ❤️ by <span className="font-semibold">Manish</span>
+          Made with ❤️ by <span className="font-semibold">Lalit Bhatta</span>
         </p>
       </footer >
     </div >
