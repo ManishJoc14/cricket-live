@@ -12,7 +12,8 @@ export default function Home() {
       {/* Video Player */}
       <iframe
         // src="//stream.crichd.sc/update/star1hi.php"
-        src="https://soplay.pro/embed2.php?id=starsp3"
+        // src="https://soplay.pro/embed2.php?id=starsp3"
+        src="//streamcrichd.com/update/star1hi.php"
         className="h-screen"
         allowFullScreen
         allow="encrypted-media"

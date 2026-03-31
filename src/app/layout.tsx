@@ -77,7 +77,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="preconnect" href="//stream.crichd.sc" />
+        <link rel="preconnect" href="//streamcrichd.com" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
